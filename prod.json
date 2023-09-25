@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Waterproofing (Polyurea)",
+    "description": "It is a distinct material that provides lining and leak prevention. It can be used in various areas. Polyurea coating can be used on concrete to protect against friction. It has many advantages compared to traditional materials due to its high operational efficiency in a short period of time. It is characterized by its durability and high resistance to weather conditions and its ability to withstand friction.",
+    "list": [
+      "Coating for surfaces (concrete or zinc)",
+      "Water leak treatment",
+      "Fuel tanks and containers",
+      "Large water basins",
+      "Amusement parks and decorative designs",
+      "Marine industries",
+      "Automotive structures",
+      "Coating for pipes and pipelines",
+      "Coating for floors, car parks, bridges, and viaducts",
+      "Railway cars and containers",
+      "Playgrounds and water parks",
+      "Industrial lakes"
+    ],
+    "image": "10.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Waterproofing and Thermal Insulation (Polyurethane)",
+    "description": "This material is considered one of the best types of insulation used for roofs because it combines the properties of waterproofing and thermal insulation. It also provides cost savings compared to traditional insulation materials. It consists of a series of organic units linked by a polyurethane root. Commonly abbreviated as PU. It is used as an insulator to provide strength and protection to covered bodies from heat, cold, or corrosion due to intensive use. One of its important features is the ability to be applied on all types of surfaces (metal, wood, concrete). It is lightweight with a weight of 45 kg/m2 density. It is completely resistant to water, saltwater, and living organisms. It is not affected by insects and fungi and does not produce any odors. It is highly resistant to variable weather conditions, winds, and rain. It eliminates the need for tiles and above-ground burial. There are no joints in the roof as it consists of cohesive and interconnected layers through the cumulative spraying process. It is executed in only two stages. A thermal system approved by the Saudi Electricity Company.",
+    "list": null,
+    "image": "12.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Waterproofing (Bituminous Sheets)",
+    "description": "Types of waterproofing (bitumen): Poly Film - Derma Bit - Desert Shield. Execution method: 1. Clean the surface from dust and any residues. 2. The surface should be smooth by applying a layer of plaster or pouring a cement mortar on the surfaces. 3. Create an angle in the plaster with a size of 5x5 at the junction of the floor and walls. 4. Create a threshold for the doors with a minimum of 20 cm and seal it with a corner. Secondly, start the waterproofing process: 1. Apply a liquid bitumen coating on the entire surface and leave it for 24 hours. 2. The next day, start waterproofing the floors continuously until completion. Ensure a minimum overlap of 10 cm for welding the insulation on top of each other. 3. After completing the waterproofing work on the surface, install an aluminum strip at the end of the insulation and fill it with a sealing material to ensure no water leakage between the insulation and the walls in the long run. 4. Finally, fill the surfaces with water and test the quality of the insulation.",
+    "list": null,
+    "image": "13.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Waterproofing (Bitumen Membrane)",
+    "description": "Types of waterproofing (bitumen):<br>Poly film - Dermapit - Desert Shield<br>Execution method:<br>1. Clean the surface from dust and any debris.<br>2. The surface should be smooth either by applying a plaster layer or applying a mortar screed on the surfaces.<br>3. Create a 5x5 angle with plaster at the junction of the floor and the walls.<br>4. Create a threshold for the doors with a minimum height of 20cm and reinforce it with an angle.<br><h6>Secondly, start the waterproofing process:</h6>1. Apply a layer of liquid bitumen paint on the entire required surface and leave it for 24 hours.<br>2. The next day, start waterproofing the floors and continue working until completion.<br>Ensure overlapping of at least 10cm for waterproofing layers.<br>3. After completing the surface waterproofing work, install an aluminum strip at the end of the waterproofing with the vertical walls and fill it with sealant to ensure no water leakage between the waterproofing and the walls in the long term.<br>4. Finally, fill the surfaces with water and test the quality of the waterproofing.",
+    "list": null,
+    "image": "13.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Glass Thermal Insulation",
+    "description": "Colored window films help control sunlight and reduce energy consumption in homes by up to 30%. They also provide up to 70% thermal insulation. With these colored films, you can enjoy greater comfort while maintaining the elegant appearance of your home. These colored films are cost-effective compared to the prices of new windows and enhance the performance quality of existing windows without the need for replacement. Please note that our American-made products come with a warranty of up to 10 years.",
+    "list": [
+      "Energy Efficiency: Colored window films for homes help reduce heat from the sun while maintaining a stable temperature inside the house, thus reducing air conditioning costs. By applying these films to your current windows, you can reduce energy consumption by up to 30%.",
+      "Cost Savings: The cost of applying these colored films to windows is on average four times less than the cost of installing new windows.",
+      "Carbon Emission Reduction: With colored window films, carbon emissions decrease to around 1 kilogram per square meter, compared to approximately 253 kilograms per square meter emitted by wooden windows.",
+      "Greenhouse Gas Emissions: Colored glass films provide protection against greenhouse gas emissions 100 times more effectively than the emissions generated during their manufacturing.",
+      "UV Protection: Colored films reduce over 99% of harmful UV radiation, scientifically proven to cause premature aging and skin cancer. These films protect your home furnishings and other items from UV damage and fading."
+    ],
+    "image": "7.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Epoxy Insulation",
+    "description": "This system falls under waterproof and moisture-proof coatings. It is used to insulate tanks and floors to prevent water penetration. It is also resistant to chemicals, friction, and moisture, making it suitable for concrete floors, bridge foundations, underground and overhead tanks.",
+    "list": [
+      "Used for factory floors and parking lots",
+      "Hospital floors and gas stations",
+      "Tanks and basements",
+      "Used for coating parking garage floors",
+      "Used for mall floors, showrooms, workshops, and car exhibitions",
+      "Used for coating the floors of swimming pools."
+    ],
+    "image": "9.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Cement Insulation",
+    "description": "Cement insulation (chemical) is used for waterproofing by employing cement-based compounds, various additives that are mixed and packaged for dry application. The packaged mixture is then blended with water and specialized liquid materials to achieve a practical and tangible consistency. Cement-based products are likely the easiest materials to apply for waterproofing as they do not require any sophisticated equipment for application. Cement-based waterproofing products are widely used worldwide to isolate water leakage.",
+    "list": [
+      "Groundwater tanks",
+      "Concrete overhead water tanks",
+      "Swimming pool basins",
+      "Basement internal insulation"
+    ],
+    "image": "14.jpg"
+  }
+]
